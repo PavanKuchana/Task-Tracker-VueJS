@@ -19,6 +19,13 @@ npm run build
 ```
 npm run lint
 ```
-
+### Concurrently running both servers
+```
+npm install -g concurrently
+```
+### Concurrently running both servers
+```
+npm install json-server
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

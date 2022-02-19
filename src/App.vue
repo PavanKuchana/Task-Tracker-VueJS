@@ -31,7 +31,6 @@ export default {
     toggleAddTask(){
       this.showAddTask = !this.showAddTask
     },
-
   },
 }
 </script>
